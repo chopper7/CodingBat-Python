@@ -1,5 +1,5 @@
 # CodingBat-Python
-A collection of my solutions to Python problems posted on the CodingBat.com code practice website.
+**A collection of my solutions to Python problems posted on the CodingBat.com code practice website.**
 
 _What is CodingBat?_
 
